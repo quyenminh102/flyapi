@@ -1,5 +1,5 @@
 {
-    "name": "quyenminh102/flyapi",
+    "name": "quyenminh102/qapi",
     "type": "library",
     "description": "Flywheel API lib for server",
     "keywords": ["framework", "API"],
