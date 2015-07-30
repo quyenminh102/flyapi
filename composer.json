@@ -1,15 +1,15 @@
 {
-    "name": "quyenminh102/qapi",
+    "name": "quyenminh102/flyapi",
     "type": "library",
     "description": "Flywheel API lib for server",
     "keywords": ["framework", "API"],
-    "homepage": "http://quyenminh.com",
+    "homepage": "http://abc.com",
     "version" : "0.1",
     "license": "MIT",
     "authors": [
         {
-            "name": "Chu Minh Quyen",
-            "email": "quyenminh.102@gmail.com"
+            "name": "Luu Trong Hieu",
+            "email": "tronghieu.luu@gmail.com"
         }
     ],
     "require": {
